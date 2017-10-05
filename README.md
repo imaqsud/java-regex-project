@@ -1,6 +1,6 @@
 INTRODUCTION
 
-This is a java regex project to do all the java regex project here.
+This is a java regex project to do all the java regex things here.
 
 PROFILE
 
